@@ -37,7 +37,6 @@ It integrates **MLflow** for experiment tracking, model comparison, and model ma
 
 ## 🔄 Workflow
 
-```text
 Data Collection
 → Text Preprocessing
 → Feature Engineering (TF-IDF)
@@ -45,7 +44,7 @@ Data Collection
 → MLflow Tracking
 → Model Comparison
 → Best Model Selection
-→ Model Registration
+→ Model Registration 
 
 
 📁 Sentiment-Analysis
