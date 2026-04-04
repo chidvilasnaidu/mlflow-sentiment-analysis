@@ -38,8 +38,8 @@ It integrates **MLflow** for experiment tracking, model comparison, and model ma
 ## 🔄 Workflow
 
 Data Collection
-→ Text Preprocessing
-→ Feature Engineering (TF-IDF)
+- → Text Preprocessing
+- → Feature Engineering (TF-IDF)
 → Model Training
 → MLflow Tracking
 → Model Comparison
